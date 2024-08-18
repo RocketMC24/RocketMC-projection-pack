@@ -1,36 +1,40 @@
 # RocketMC New Projection Pack
 
-**RocketMC New Projection Pack** is a custom Minecraft modpack inspired by the Build The Earth (BTE) project and TerraPlusPlus. This modpack is designed to generate a highly detailed and accurate representation of the Earth in Minecraft, using advanced mods and real-world datasets. Whether you're constructing realistic cities or exploring natural landscapes, this pack provides everything you need to bring the real world into the blocky universe.
+**RocketMC New Projection Pack** is a custom Minecraft modpack heavily inspired by the Build The Earth (BTE) project. This modpack is designed to create a highly detailed and accurate representation of the Earth in Minecraft, using advanced mods and real-world datasets. It provides tools for both building realistic environments and exploring natural landscapes, making it ideal for those who want to recreate or explore Earth’s geography within the game.
+
+## What is it?
+
+**RocketMC New Projection Pack** is a modpack for Minecraft that focuses on generating a precise and realistic model of the Earth. By integrating mods that utilize real-world data, this pack aims to provide an immersive experience that mirrors Earth's terrain, road networks, and natural features. It is inspired by the Build The Earth project and is tailored to bring a true-to-life representation of our planet into Minecraft.
 
 ## Key Features
 
-- **Major Roads, Minor Roads, and Grass Pathways:** Accurately generated from OpenStreetMap data, providing detailed road networks and pathways for realistic urban and rural planning.
-- **Elevation and Biome Placement:** Utilizes public terrain datasets to faithfully recreate Earth's topography and biomes, ensuring realistic elevation and ecological zones.
-- **Procedural Tree Placement:** Trees are placed automatically based on real-world vegetation data, enhancing the authenticity of forests and woodlands.
-- **Realistic Oceans:** Oceans are generated based on elevation and depth data, accurately reflecting Earth's hydrology.
-- **Customizable World Generation GUI:** A user-friendly interface allows you to customize world generation settings without needing additional mods like MalisisCore.
-- **Teleportation by Coordinates:** Use `/tpll latitude longitude [elevation]` to instantly teleport to any real-world location, making exploration of Earth within Minecraft seamless.
-- **Surface Ore Distribution:** Ores are generated just below the surface in patterns that mimic real-world geological formations, adding to the mining experience.
-- **Underground Features:** Caves, dungeons, and other standard underground features are procedurally generated using CubicWorldGen as a baseline. These features are disabled by default but can be enabled and customized in the generator settings.
+- **Major Roads, Minor Roads, and Grass Pathways:** Accurately generated from OpenStreetMap data for realistic road and pathway placement.
+- **Real-World Terrain and Biome Placement:** Uses public datasets to recreate Earth's topography and ecological zones.
+- **Procedural Tree Placement:** Trees are placed based on real-world vegetation data, enhancing the authenticity of forests and woodlands.
+- **Realistic Oceans:** Oceans are generated using elevation and depth data, reflecting Earth's hydrology.
+- **Customizable World Generation GUI:** A user-friendly interface allows customization of world generation settings.
+- **Teleportation by Coordinates:** Use `/tpll latitude longitude [elevation]` to instantly teleport to any real-world location.
+- **Surface Ore Distribution:** Ores are generated just below the surface in patterns that mimic real-world geology.
+- **Underground Features:** Caves, dungeons, and other underground features are procedurally generated using CubicWorldGen, with options to enable or disable them in the settings.
 
 ## Prerequisites
 
-- **Minecraft Forge:** The essential modding platform that supports all the mods included in this pack.
-- **CubicChunks:** Required for rendering the world with greater vertical detail, especially for tall structures and deep geological features.
-- **CubicWorldGen:** Works in tandem with CubicChunks to enable advanced world generation features.
+- **Minecraft Forge:** Required for modding support.
+- **CubicChunks:** Necessary for detailed world rendering, especially for tall structures and deep caves.
+- **CubicWorldGen:** Works with CubicChunks to enable advanced world generation features.
 
 ## Installation
 
-1. **Download the Modpack:** [Modrinth Download Link] (Provide the link to your modpack on Modrinth).
-2. **Install Minecraft Forge:** Ensure you have the correct version installed.
-3. **Load the Modpack:** Place the modpack files in your Minecraft `mods` folder.
+1. **Download the Modpack:** Available on [Modrinth](#). Double-click to install the modpack, which includes all necessary mods.
+2. **Install Minecraft Forge:** Ensure the correct version is installed.
+3. **Load the Modpack:** Follow Modrinth's instructions for installing and managing the modpack.
 4. **Launch Minecraft:** Start the game and select the RocketMC New Projection Pack from the mods menu.
 
 ## Obtaining
 
-- **Stable Releases:** Available on our [Modrinth page](#).
-- **Source Code:** Available on our [GitHub Repository](#) for those interested in contributing or modifying the modpack.
+- **Stable Releases:** Accessible on our [Modrinth page](#).
+- **Source Code:** Available on our [GitHub Repository](#) for contributions or modifications.
 
 ## Contributing
 
-We welcome contributions from the community! If you want to contribute to the development of RocketMC New Projection Pack, feel free to submit pull requests or report issues on our GitHub page.
+We welcome contributions from the community! If you wish to help develop or improve RocketMC New Projection Pack, please submit pull requests or report issues on our GitHub page.
