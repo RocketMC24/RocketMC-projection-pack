@@ -1,26 +1,23 @@
 # RocketMC New Projection Pack
 
-**RocketMC New Projection Pack** is a custom Minecraft modpack inspired by the Build The Earth (BTE) project. This pack focuses on generating a highly detailed and accurate representation of the Earth in Minecraft, utilizing advanced mods and public datasets. Whether you're building a realistic city or exploring the natural world, this modpack provides the tools you need.
+**RocketMC New Projection Pack** is a custom Minecraft modpack inspired by the Build The Earth (BTE) project and TerraPlusPlus. This modpack is designed to generate a highly detailed and accurate representation of the Earth in Minecraft, using advanced mods and real-world datasets. Whether you're constructing realistic cities or exploring natural landscapes, this pack provides everything you need to bring the real world into the blocky universe.
 
 ## Key Features
 
-- **1:1 Scale Earth Generation:** Experience Earth in Minecraft with a scale of 1 block per meter, replicating real-world locations accurately.
-- **Real-World Elevation Data:** The terrain is generated using public datasets that match Earth's topography, including mountains, valleys, and plains.
-- **Biome Mapping:** Biomes are placed according to real-world climate zones, ensuring that deserts, forests, and other biomes appear where they should.
-- **Detailed Road Networks:** Major roads, minor roads, and pathways are imported directly from OpenStreetMap, allowing for precise and realistic road placement.
-- **City and Building Placement:** Utilize OpenStreetMap data to generate cities and other man-made structures, enabling the creation of realistic urban landscapes.
-- **Procedural Tree Placement:** Trees are automatically placed according to global vegetation data, providing realistic forests, woodlands, and other natural areas.
-- **Ocean and Water Features:** Oceans, lakes, and rivers are generated based on elevation data, with realistic depth and placement reflecting Earth's hydrology.
-- **Customizable World Generation:** A user-friendly GUI allows you to tweak world generation settings to match specific regions or preferences, without needing additional mods.
-- **Teleportation by Coordinates:** Easily navigate the world using `/tpll latitude longitude [elevation]` to teleport to any real-world location within Minecraft.
-- **Surface Ore Distribution:** Ore generation is tailored to Earth's geology, with resources appearing just below the surface in a way that mirrors real-world mineral distribution.
-- **Caves and Underground Features:** Though focused on Earth's surface, the modpack includes optional underground features like caves and dungeons, generated using advanced techniques.
+- **Major Roads, Minor Roads, and Grass Pathways:** Accurately generated from OpenStreetMap data, providing detailed road networks and pathways for realistic urban and rural planning.
+- **Elevation and Biome Placement:** Utilizes public terrain datasets to faithfully recreate Earth's topography and biomes, ensuring realistic elevation and ecological zones.
+- **Procedural Tree Placement:** Trees are placed automatically based on real-world vegetation data, enhancing the authenticity of forests and woodlands.
+- **Realistic Oceans:** Oceans are generated based on elevation and depth data, accurately reflecting Earth's hydrology.
+- **Customizable World Generation GUI:** A user-friendly interface allows you to customize world generation settings without needing additional mods like MalisisCore.
+- **Teleportation by Coordinates:** Use `/tpll latitude longitude [elevation]` to instantly teleport to any real-world location, making exploration of Earth within Minecraft seamless.
+- **Surface Ore Distribution:** Ores are generated just below the surface in patterns that mimic real-world geological formations, adding to the mining experience.
+- **Underground Features:** Caves, dungeons, and other standard underground features are procedurally generated using CubicWorldGen as a baseline. These features are disabled by default but can be enabled and customized in the generator settings.
 
 ## Prerequisites
 
-- **Minecraft Forge:** The backbone of modding, providing support for all the mods included in this pack.
-- **CubicChunks:** Necessary for rendering the world in greater detail, especially for tall structures and deep caves.
-- **CubicWorldGen:** Works in conjunction with CubicChunks to enable custom world generation features.
+- **Minecraft Forge:** The essential modding platform that supports all the mods included in this pack.
+- **CubicChunks:** Required for rendering the world with greater vertical detail, especially for tall structures and deep geological features.
+- **CubicWorldGen:** Works in tandem with CubicChunks to enable advanced world generation features.
 
 ## Installation
 
