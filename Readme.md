@@ -1,6 +1,3 @@
-# RocketMC New Projection Pack
-
-**RocketMC New Projection Pack** is a custom Minecraft modpack heavily inspired by the Build The Earth (BTE) project. This modpack is designed to create a highly detailed and accurate representation of the Earth in Minecraft, using advanced mods and real-world datasets. It provides tools for both building realistic environments and exploring natural landscapes, making it ideal for those who want to recreate or explore Earth’s geography within the game.
 
 ## What is it?
 
